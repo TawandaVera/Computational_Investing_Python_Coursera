@@ -2,7 +2,7 @@
 Used Python to complete the assignments for the coursera course "Computational Investing". The description of the course and the assignments is located at: http://wiki.quantsoftware.org/index.php?title=Computational_Investing_I
 
 For the assignments, I used the QSTK package, which supports portfolio construction and management. It is described further at:
-#http://wiki.quantsoftware.org/index.php?title=QuantSoftware_ToolKit
+http://wiki.quantsoftware.org/index.php?title=QuantSoftware_ToolKit
 
 For the 1st assignment, I wrote the program hw1.py. which simulates how the stocks in a given portfolio perform over time
 and computes the statistics of the final values of the stocks to see how much profit/loss you got with this portfolio. The program also contains a portfolio optimizer to test every "legal" set of allocations to the 4 given stocks to see which allocation of stocks produces the best portfolio. The plot "HW1_PortfolioValues.pdf" shows the value of the portfolio compared to a benchmark (S&P 500 index) over time
